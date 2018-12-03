@@ -6,7 +6,7 @@ To start:
 
 Install python 3.7.1 latest version,
 
-Install OpenCV library 3.4.1,
+Install OpenCV library 3.4.1,[Link](https://pypi.org/project/opencv-python/).
 
 Install all the missing necessary packages just like numpy and cv2.
 
