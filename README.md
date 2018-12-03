@@ -8,9 +8,9 @@ Install python 3.7.1 latest version,
 
 Install OpenCV library 3.4.1,
 
-Be sure that your webcamera process is not in use!
-
 Install all the missing necessary packages just like numpy and cv2.
+
+Be sure that your webcamera process is not in use!
 
 You can follow this instruction guide [PDF](https://media.readthedocs.org/pdf/opencv-python-tutroals/latest/opencv-python-tutroals.pdf) for any used OS.
 
