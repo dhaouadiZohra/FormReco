@@ -2,7 +2,7 @@
 Form shape recognization on a local webcam with python, using openCV library.
 Based on: Geneva,Hepia university digital vision courses.
 
-To start:
+# To start:
 
 Install python 3.7.1 latest version,
 
