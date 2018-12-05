@@ -1,6 +1,7 @@
 # FormReco
 Form shape recognization on a local webcam with python, using openCV library.
 Based on: Geneva,Hepia university digital vision courses.
+In this project, we will be applying the [Canny Edge Detection algorithm.](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html).
 
 # To start:
 
